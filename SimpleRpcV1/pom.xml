@@ -5,9 +5,9 @@
   <artifactId>SimpleRpcV1</artifactId>
   <packaging>pom</packaging>
   <modules>
-    <module>ServerTest</module>
-    <module>RpcCore</module>
-    <module>ClientTest</module>
+    <module>V1ServerTest</module>
+    <module>V1RpcCore</module>
+    <module>V1ClientTest</module>
   </modules>
   <version>1.0-SNAPSHOT</version>
   <name>SimpleRpcV1 Maven Webapp</name>
